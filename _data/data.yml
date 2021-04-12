@@ -25,15 +25,14 @@ sidebar:
       - idiom: Spanish
        
 
-    Skills/Interests:
+    Interests:
       - item: Coding 
         link:
 
       - item: Graphic Design
         link:
      
-      - item: 
-        link:
+      
 
     
 education:
@@ -41,7 +40,7 @@ education:
       university: Santa Monica College
       time: 2020-Present
       details: |
-      
+          - Current GPA: 3.6
     - degree: High School
       university: Tehachapi High School
       time: 2015-2018
