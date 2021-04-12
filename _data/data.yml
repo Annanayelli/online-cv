@@ -22,10 +22,11 @@ sidebar:
 
     languages:
       - idiom: English
+       - Native
        
 
       - idiom: Spanish
-        
+        - Native
 
     interests:
       - item: Coding 
