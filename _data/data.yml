@@ -21,18 +21,18 @@ sidebar:
     
 
     languages:
-      - idiom: English
-       - Native
+      - idiom: English       
+      - idiom: Spanish
        
 
-      - idiom: Spanish
-        - Native
-
-    interests:
+    Skills/Interests:
       - item: Coding 
         link:
 
       - item: Graphic Design
+        link:
+     
+      - item: 
         link:
 
     
