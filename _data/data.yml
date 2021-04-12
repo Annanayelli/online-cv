@@ -28,7 +28,6 @@ sidebar:
     Interests:
       - item: Coding 
         link:
-
       - item: Graphic Design
         link:
      
@@ -53,11 +52,11 @@ experiences:
       time: 2015-2018
       details: |
         As Vice President of Community Outreach, I worked closely with my team to promote STEM awareness within the community. This involved traveling to local elementary schools to do hands-on demonstrations about basic programming of robots with the students and teach them basic coding skills.  As part of the design team, I worked with other members of my team to make decisions and work to form a consensus on the mechanical design of the robot. We would work with the programmers to come up with a design for the robot that would work best for it to be able to maneuver around the obstacles. 
-    - role: Hospital Volunteer
-      time: August 2018- June 2019
-      company: Antelope Valley Hospital
+    - role: Small Buisness Owner
+      time: January 2017 - March 2020
+      company: Azucar
       details: |
-        As a volunteer, I did a variety of tasks which included: greeting, escorting patients, clerical duties, working in the gift shop, and helping the communications department with social media posts and marketing.      
+        Azucar was a small business that sold handmade seasonal crafts and home decor, we would sell at farmer's markets, craft fairs, Etsy, and seasonal festivals. I was a co-owner with my grandma. My responsibility was social media management and content creation, product photography, customer service, and product development.    
     - role: Medical Assistant and Social Media Marketer
       time: September 2019 - March 2020
       company: California Medical Clinic
@@ -69,13 +68,13 @@ skills:
 
     toolset:
       - name: Python 
-        level: 60%
+        level: 50%
 
       - name: Java
         level: 40%
 
       - name: C & C++
-        level: 55%
+        level: 70%
 
       - name: Adobe Illustrator
         level: 80%
